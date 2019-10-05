@@ -23,8 +23,13 @@ double Pod::get_max_speed()
 }
 
 /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////////
+
 double Pod::get_temperature()
 {
   return 1742;
+}
+double Pod::get_pressure()
+{
+    return 25;
 }
 /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////////

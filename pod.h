@@ -16,7 +16,11 @@ class Pod
     std::string get_name();
     double get_max_speed();
     /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////
+<<<<<<< HEAD
     double get_temperature();
+=======
+    double get_pressure();
+>>>>>>> Implement Pressure Functions
     /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////
 
 
