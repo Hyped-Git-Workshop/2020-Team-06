@@ -8,7 +8,11 @@ class BatteryManagementSystem
     BatteryManagementSystem();
 
     /// TASKS 9 (BOTH) /////////////////////////////////////////////////////////
+
     double get_current();
+
+    double get_voltage();
+
     /// END OF TASKS 9AB ///////////////////////////////////////////////////////
 };
 
